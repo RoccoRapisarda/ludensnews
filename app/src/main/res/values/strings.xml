@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">LudensNews</string>
+    <string name="app_menu" translatable="false">Menu</string>
+</resources>
